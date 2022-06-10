@@ -1,6 +1,6 @@
 export default {
-  name: 'host',
-  title: 'Host',
-  type: 'reference',
-  to: [{ type: 'person' }],
-}
+    name: 'host',
+    title: 'Host',
+    type: 'reference',
+    to: [{ type: 'person' }],
+};
