@@ -1,1 +1,1 @@
-# AirBnb Nextjs Sanity.io Clone
+# AirBnb Clone Nextjs Sanity.io Frontend
