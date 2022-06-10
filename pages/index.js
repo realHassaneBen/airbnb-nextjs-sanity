@@ -7,7 +7,7 @@ const Home = ({ properties }) => {
     console.log(properties);
     return (
         <>
-            {properties && (
+            {properties.length && (
                 <div className="main">
                     <div className="feed-container">
                         <h1>Places to stay near you</h1>
